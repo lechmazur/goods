@@ -6,7 +6,7 @@ This project investigates popular LLMs and their contributions. A total of 310 g
 
 ## Results
 
-
+![average_contribution_percentage](https://github.com/user-attachments/assets/1ebaa7a2-7463-4526-99e0-c1689d121ff3)
 
 ## Contribution % Leaderboard
 
@@ -35,3 +35,6 @@ Sorted by average contribution percentage (descending).
 | 19 | DeepSeek R1 | 0.31% | ±0.28 | 41 |
 | 20 | o3-mini | 0.00% | ±0.00 | 47 |
 | 21 | DeepSeek R1 | 0.00% | ±0.00 | 18 |
+
+## Updates and Other Benchmarks
+- Also check out the [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/), [LLM Step Game](https://github.com/lechmazur/step_game), [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization), [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing), [LLM Deception Benchmark](https://github.com/lechmazur/deception) and [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).
