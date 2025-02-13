@@ -1,4 +1,4 @@
-# LLM Public Good Game
+# LLM Public Goods Game
 
 The public goods game is a classic paradigm in experimental economics used to study cooperation and free-riding in groups. Each player decides how many tokens from a personal endowment to contribute to a common pool; the total contributions are then multiplied by a factor 𝑀 and redistributed equally to all players. Any tokens not contributed remain with the individual. Although contributing maximally can yield high payoffs for the group as a whole, each player has an incentive to “free-ride,” hoping to benefit from others’ contributions while contributing little themselves. 
 
