@@ -1,0 +1,26 @@
+{"game_id": 1738665614476384, "type": "init", "timestamp": "2025-02-04 05:40:14", "settings": {"game_id": 1738665614476384, "total_rounds": 6, "starting_amount": 50, "multiplier": 2, "num_players": 4}, "short_name_map": {"Player1_Game1738665614476384_qwen": {"short_label": "P1", "model_name": "qwen"}, "Player2_Game1738665614476384_grok2-12-12": {"short_label": "P2", "model_name": "grok2-12-12"}, "Player3_Game1738665614476384_qwen-max": {"short_label": "P3", "model_name": "qwen-max"}, "Player4_Game1738665614476384_deepseek": {"short_label": "P4", "model_name": "deepseek"}}}
+{"game_id": 1738665614476384, "type": "contribution", "round": 1, "player_id": "Player1_Game1738665614476384_qwen", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738665614476384, "type": "contribution", "round": 1, "player_id": "Player2_Game1738665614476384_grok2-12-12", "contribution": 0, "current_tokens": 50}
+{"game_id": 1738665614476384, "type": "contribution", "round": 1, "player_id": "Player3_Game1738665614476384_qwen-max", "contribution": 0, "current_tokens": 50}
+{"game_id": 1738665614476384, "type": "contribution", "round": 1, "player_id": "Player4_Game1738665614476384_deepseek", "contribution": 50, "current_tokens": 0}
+{"game_id": 1738665614476384, "type": "contribution", "round": 2, "player_id": "Player1_Game1738665614476384_qwen", "contribution": 10, "current_tokens": 60}
+{"game_id": 1738665614476384, "type": "contribution", "round": 2, "player_id": "Player2_Game1738665614476384_grok2-12-12", "contribution": 0, "current_tokens": 80}
+{"game_id": 1738665614476384, "type": "contribution", "round": 2, "player_id": "Player3_Game1738665614476384_qwen-max", "contribution": 0, "current_tokens": 80}
+{"game_id": 1738665614476384, "type": "contribution", "round": 2, "player_id": "Player4_Game1738665614476384_deepseek", "contribution": 0, "current_tokens": 30}
+{"game_id": 1738665614476384, "type": "contribution", "round": 3, "player_id": "Player1_Game1738665614476384_qwen", "contribution": 10, "current_tokens": 55}
+{"game_id": 1738665614476384, "type": "contribution", "round": 3, "player_id": "Player2_Game1738665614476384_grok2-12-12", "contribution": 0, "current_tokens": 85}
+{"game_id": 1738665614476384, "type": "contribution", "round": 3, "player_id": "Player3_Game1738665614476384_qwen-max", "contribution": 0, "current_tokens": 85}
+{"game_id": 1738665614476384, "type": "contribution", "round": 3, "player_id": "Player4_Game1738665614476384_deepseek", "contribution": 0, "current_tokens": 35}
+{"game_id": 1738665614476384, "type": "contribution", "round": 4, "player_id": "Player1_Game1738665614476384_qwen", "contribution": 10, "current_tokens": 50}
+{"game_id": 1738665614476384, "type": "contribution", "round": 4, "player_id": "Player2_Game1738665614476384_grok2-12-12", "contribution": 0, "current_tokens": 90}
+{"game_id": 1738665614476384, "type": "contribution", "round": 4, "player_id": "Player3_Game1738665614476384_qwen-max", "contribution": 0, "current_tokens": 90}
+{"game_id": 1738665614476384, "type": "contribution", "round": 4, "player_id": "Player4_Game1738665614476384_deepseek", "contribution": 0, "current_tokens": 40}
+{"game_id": 1738665614476384, "type": "contribution", "round": 5, "player_id": "Player1_Game1738665614476384_qwen", "contribution": 10, "current_tokens": 45}
+{"game_id": 1738665614476384, "type": "contribution", "round": 5, "player_id": "Player2_Game1738665614476384_grok2-12-12", "contribution": 0, "current_tokens": 95}
+{"game_id": 1738665614476384, "type": "contribution", "round": 5, "player_id": "Player3_Game1738665614476384_qwen-max", "contribution": 0, "current_tokens": 95}
+{"game_id": 1738665614476384, "type": "contribution", "round": 5, "player_id": "Player4_Game1738665614476384_deepseek", "contribution": 0, "current_tokens": 45}
+{"game_id": 1738665614476384, "type": "contribution", "round": 6, "player_id": "Player1_Game1738665614476384_qwen", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738665614476384, "type": "contribution", "round": 6, "player_id": "Player2_Game1738665614476384_grok2-12-12", "contribution": 0, "current_tokens": 100}
+{"game_id": 1738665614476384, "type": "contribution", "round": 6, "player_id": "Player3_Game1738665614476384_qwen-max", "contribution": 0, "current_tokens": 100}
+{"game_id": 1738665614476384, "type": "contribution", "round": 6, "player_id": "Player4_Game1738665614476384_deepseek", "contribution": 0, "current_tokens": 50}
+{"game_id": 1738665614476384, "type": "final", "timestamp": "2025-02-04 05:52:00", "final_tokens": {"qwen": 45, "grok2-12-12": 105, "qwen-max": 105, "deepseek": 55}, "carry_over_fund": 0, "settings": {"game_id": 1738665614476384, "total_rounds": 6, "starting_amount": 50, "multiplier": 2, "num_players": 4}}

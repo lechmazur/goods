@@ -1,0 +1,17 @@
+{"game_id": 1739414317099579, "type": "init", "timestamp": "2025-02-12 21:38:37", "settings": {"game_id": 1739414317099579, "total_rounds": 3, "starting_amount": 1000, "multiplier": 4, "num_players": 5}, "short_name_map": {"Player1_Game1739414317099579_llama": {"short_label": "P1", "model_name": "llama"}, "Player2_Game1739414317099579_mistral": {"short_label": "P2", "model_name": "mistral"}, "Player3_Game1739414317099579_gemini": {"short_label": "P3", "model_name": "gemini"}, "Player4_Game1739414317099579_gemma": {"short_label": "P4", "model_name": "gemma"}, "Player5_Game1739414317099579_qwen": {"short_label": "P5", "model_name": "qwen"}}}
+{"game_id": 1739414317099579, "type": "contribution", "round": 1, "player_id": "Player1_Game1739414317099579_llama", "contribution": 0, "current_tokens": 1000}
+{"game_id": 1739414317099579, "type": "contribution", "round": 1, "player_id": "Player2_Game1739414317099579_mistral", "contribution": 0, "current_tokens": 1000}
+{"game_id": 1739414317099579, "type": "contribution", "round": 1, "player_id": "Player3_Game1739414317099579_gemini", "contribution": 250, "current_tokens": 750}
+{"game_id": 1739414317099579, "type": "contribution", "round": 1, "player_id": "Player4_Game1739414317099579_gemma", "contribution": 0, "current_tokens": 1000}
+{"game_id": 1739414317099579, "type": "contribution", "round": 1, "player_id": "Player5_Game1739414317099579_qwen", "contribution": 250, "current_tokens": 750}
+{"game_id": 1739414317099579, "type": "contribution", "round": 2, "player_id": "Player1_Game1739414317099579_llama", "contribution": 0, "current_tokens": 1400}
+{"game_id": 1739414317099579, "type": "contribution", "round": 2, "player_id": "Player2_Game1739414317099579_mistral", "contribution": 0, "current_tokens": 1400}
+{"game_id": 1739414317099579, "type": "contribution", "round": 2, "player_id": "Player3_Game1739414317099579_gemini", "contribution": 0, "current_tokens": 1150}
+{"game_id": 1739414317099579, "type": "contribution", "round": 2, "player_id": "Player4_Game1739414317099579_gemma", "contribution": 1000, "current_tokens": 400}
+{"game_id": 1739414317099579, "type": "contribution", "round": 2, "player_id": "Player5_Game1739414317099579_qwen", "contribution": 250, "current_tokens": 900}
+{"game_id": 1739414317099579, "type": "contribution", "round": 3, "player_id": "Player1_Game1739414317099579_llama", "contribution": 0, "current_tokens": 2400}
+{"game_id": 1739414317099579, "type": "contribution", "round": 3, "player_id": "Player2_Game1739414317099579_mistral", "contribution": 0, "current_tokens": 2400}
+{"game_id": 1739414317099579, "type": "contribution", "round": 3, "player_id": "Player3_Game1739414317099579_gemini", "contribution": 0, "current_tokens": 2150}
+{"game_id": 1739414317099579, "type": "contribution", "round": 3, "player_id": "Player4_Game1739414317099579_gemma", "contribution": 1000, "current_tokens": 400}
+{"game_id": 1739414317099579, "type": "contribution", "round": 3, "player_id": "Player5_Game1739414317099579_qwen", "contribution": 250, "current_tokens": 1650}
+{"game_id": 1739414317099579, "type": "final", "timestamp": "2025-02-12 21:39:09", "final_tokens": {"llama": 3400, "mistral": 3400, "gemini": 3150, "gemma": 1400, "qwen": 2650}, "carry_over_fund": 0, "settings": {"game_id": 1739414317099579, "total_rounds": 3, "starting_amount": 1000, "multiplier": 4, "num_players": 5}}

@@ -1,0 +1,34 @@
+{"game_id": 1737967554983613, "type": "init", "timestamp": "2025-01-27 03:45:54", "settings": {"game_id": 1737967554983613, "total_rounds": 8, "starting_amount": 30, "multiplier": 1.5, "num_players": 4}, "short_name_map": {"Player1_Game1737967554983613_gemini": {"short_label": "P1", "model_name": "gemini"}, "Player2_Game1737967554983613_qwen": {"short_label": "P2", "model_name": "qwen"}, "Player3_Game1737967554983613_gpt-4o": {"short_label": "P3", "model_name": "gpt-4o"}, "Player4_Game1737967554983613_sonnet-20241022": {"short_label": "P4", "model_name": "sonnet-20241022"}}}
+{"game_id": 1737967554983613, "type": "contribution", "round": 1, "player_id": "Player1_Game1737967554983613_gemini", "contribution": 10, "current_tokens": 20}
+{"game_id": 1737967554983613, "type": "contribution", "round": 1, "player_id": "Player2_Game1737967554983613_qwen", "contribution": 10, "current_tokens": 20}
+{"game_id": 1737967554983613, "type": "contribution", "round": 1, "player_id": "Player3_Game1737967554983613_gpt-4o", "contribution": 30, "current_tokens": 0}
+{"game_id": 1737967554983613, "type": "contribution", "round": 1, "player_id": "Player4_Game1737967554983613_sonnet-20241022", "contribution": 10, "current_tokens": 20}
+{"game_id": 1737967554983613, "type": "contribution", "round": 2, "player_id": "Player1_Game1737967554983613_gemini", "contribution": 0, "current_tokens": 42}
+{"game_id": 1737967554983613, "type": "contribution", "round": 2, "player_id": "Player2_Game1737967554983613_qwen", "contribution": 10, "current_tokens": 32}
+{"game_id": 1737967554983613, "type": "contribution", "round": 2, "player_id": "Player3_Game1737967554983613_gpt-4o", "contribution": 0, "current_tokens": 22}
+{"game_id": 1737967554983613, "type": "contribution", "round": 2, "player_id": "Player4_Game1737967554983613_sonnet-20241022", "contribution": 10, "current_tokens": 32}
+{"game_id": 1737967554983613, "type": "contribution", "round": 3, "player_id": "Player1_Game1737967554983613_gemini", "contribution": 0, "current_tokens": 50}
+{"game_id": 1737967554983613, "type": "contribution", "round": 3, "player_id": "Player2_Game1737967554983613_qwen", "contribution": 10, "current_tokens": 30}
+{"game_id": 1737967554983613, "type": "contribution", "round": 3, "player_id": "Player3_Game1737967554983613_gpt-4o", "contribution": 30, "current_tokens": 0}
+{"game_id": 1737967554983613, "type": "contribution", "round": 3, "player_id": "Player4_Game1737967554983613_sonnet-20241022", "contribution": 10, "current_tokens": 30}
+{"game_id": 1737967554983613, "type": "contribution", "round": 4, "player_id": "Player1_Game1737967554983613_gemini", "contribution": 0, "current_tokens": 69}
+{"game_id": 1737967554983613, "type": "contribution", "round": 4, "player_id": "Player2_Game1737967554983613_qwen", "contribution": 10, "current_tokens": 39}
+{"game_id": 1737967554983613, "type": "contribution", "round": 4, "player_id": "Player3_Game1737967554983613_gpt-4o", "contribution": 0, "current_tokens": 19}
+{"game_id": 1737967554983613, "type": "contribution", "round": 4, "player_id": "Player4_Game1737967554983613_sonnet-20241022", "contribution": 10, "current_tokens": 39}
+{"game_id": 1737967554983613, "type": "contribution", "round": 5, "player_id": "Player1_Game1737967554983613_gemini", "contribution": 0, "current_tokens": 76}
+{"game_id": 1737967554983613, "type": "contribution", "round": 5, "player_id": "Player2_Game1737967554983613_qwen", "contribution": 10, "current_tokens": 36}
+{"game_id": 1737967554983613, "type": "contribution", "round": 5, "player_id": "Player3_Game1737967554983613_gpt-4o", "contribution": 0, "current_tokens": 26}
+{"game_id": 1737967554983613, "type": "contribution", "round": 5, "player_id": "Player4_Game1737967554983613_sonnet-20241022", "contribution": 10, "current_tokens": 36}
+{"game_id": 1737967554983613, "type": "contribution", "round": 6, "player_id": "Player1_Game1737967554983613_gemini", "contribution": 0, "current_tokens": 84}
+{"game_id": 1737967554983613, "type": "contribution", "round": 6, "player_id": "Player2_Game1737967554983613_qwen", "contribution": 10, "current_tokens": 34}
+{"game_id": 1737967554983613, "type": "contribution", "round": 6, "player_id": "Player3_Game1737967554983613_gpt-4o", "contribution": 0, "current_tokens": 34}
+{"game_id": 1737967554983613, "type": "contribution", "round": 6, "player_id": "Player4_Game1737967554983613_sonnet-20241022", "contribution": 10, "current_tokens": 34}
+{"game_id": 1737967554983613, "type": "contribution", "round": 7, "player_id": "Player1_Game1737967554983613_gemini", "contribution": 0, "current_tokens": 91}
+{"game_id": 1737967554983613, "type": "contribution", "round": 7, "player_id": "Player2_Game1737967554983613_qwen", "contribution": 10, "current_tokens": 31}
+{"game_id": 1737967554983613, "type": "contribution", "round": 7, "player_id": "Player3_Game1737967554983613_gpt-4o", "contribution": 0, "current_tokens": 41}
+{"game_id": 1737967554983613, "type": "contribution", "round": 7, "player_id": "Player4_Game1737967554983613_sonnet-20241022", "contribution": 10, "current_tokens": 31}
+{"game_id": 1737967554983613, "type": "contribution", "round": 8, "player_id": "Player1_Game1737967554983613_gemini", "contribution": 0, "current_tokens": 99}
+{"game_id": 1737967554983613, "type": "contribution", "round": 8, "player_id": "Player2_Game1737967554983613_qwen", "contribution": 10, "current_tokens": 29}
+{"game_id": 1737967554983613, "type": "contribution", "round": 8, "player_id": "Player3_Game1737967554983613_gpt-4o", "contribution": 0, "current_tokens": 49}
+{"game_id": 1737967554983613, "type": "contribution", "round": 8, "player_id": "Player4_Game1737967554983613_sonnet-20241022", "contribution": 10, "current_tokens": 29}
+{"game_id": 1737967554983613, "type": "final", "timestamp": "2025-01-27 03:50:22", "final_tokens": {"gemini": 107, "qwen": 37, "gpt-4o": 57, "sonnet-20241022": 37}, "carry_over_fund": 1, "settings": {"game_id": 1737967554983613, "total_rounds": 8, "starting_amount": 30, "multiplier": 1.5, "num_players": 4}}

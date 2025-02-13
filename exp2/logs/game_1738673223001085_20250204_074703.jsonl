@@ -1,0 +1,26 @@
+{"game_id": 1738673223001085, "type": "init", "timestamp": "2025-02-04 07:47:03", "settings": {"game_id": 1738673223001085, "total_rounds": 6, "starting_amount": 50, "multiplier": 2, "num_players": 4}, "short_name_map": {"Player1_Game1738673223001085_haiku35": {"short_label": "P1", "model_name": "haiku35"}, "Player2_Game1738673223001085_mistral": {"short_label": "P2", "model_name": "mistral"}, "Player3_Game1738673223001085_llama33_70b": {"short_label": "P3", "model_name": "llama33_70b"}, "Player4_Game1738673223001085_qwen": {"short_label": "P4", "model_name": "qwen"}}}
+{"game_id": 1738673223001085, "type": "contribution", "round": 1, "player_id": "Player1_Game1738673223001085_haiku35", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738673223001085, "type": "contribution", "round": 1, "player_id": "Player2_Game1738673223001085_mistral", "contribution": 0, "current_tokens": 50}
+{"game_id": 1738673223001085, "type": "contribution", "round": 1, "player_id": "Player3_Game1738673223001085_llama33_70b", "contribution": 0, "current_tokens": 50}
+{"game_id": 1738673223001085, "type": "contribution", "round": 1, "player_id": "Player4_Game1738673223001085_qwen", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738673223001085, "type": "contribution", "round": 2, "player_id": "Player1_Game1738673223001085_haiku35", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738673223001085, "type": "contribution", "round": 2, "player_id": "Player2_Game1738673223001085_mistral", "contribution": 0, "current_tokens": 60}
+{"game_id": 1738673223001085, "type": "contribution", "round": 2, "player_id": "Player3_Game1738673223001085_llama33_70b", "contribution": 0, "current_tokens": 60}
+{"game_id": 1738673223001085, "type": "contribution", "round": 2, "player_id": "Player4_Game1738673223001085_qwen", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738673223001085, "type": "contribution", "round": 3, "player_id": "Player1_Game1738673223001085_haiku35", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738673223001085, "type": "contribution", "round": 3, "player_id": "Player2_Game1738673223001085_mistral", "contribution": 0, "current_tokens": 70}
+{"game_id": 1738673223001085, "type": "contribution", "round": 3, "player_id": "Player3_Game1738673223001085_llama33_70b", "contribution": 0, "current_tokens": 70}
+{"game_id": 1738673223001085, "type": "contribution", "round": 3, "player_id": "Player4_Game1738673223001085_qwen", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738673223001085, "type": "contribution", "round": 4, "player_id": "Player1_Game1738673223001085_haiku35", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738673223001085, "type": "contribution", "round": 4, "player_id": "Player2_Game1738673223001085_mistral", "contribution": 0, "current_tokens": 80}
+{"game_id": 1738673223001085, "type": "contribution", "round": 4, "player_id": "Player3_Game1738673223001085_llama33_70b", "contribution": 0, "current_tokens": 80}
+{"game_id": 1738673223001085, "type": "contribution", "round": 4, "player_id": "Player4_Game1738673223001085_qwen", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738673223001085, "type": "contribution", "round": 5, "player_id": "Player1_Game1738673223001085_haiku35", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738673223001085, "type": "contribution", "round": 5, "player_id": "Player2_Game1738673223001085_mistral", "contribution": 0, "current_tokens": 90}
+{"game_id": 1738673223001085, "type": "contribution", "round": 5, "player_id": "Player3_Game1738673223001085_llama33_70b", "contribution": 0, "current_tokens": 90}
+{"game_id": 1738673223001085, "type": "contribution", "round": 5, "player_id": "Player4_Game1738673223001085_qwen", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738673223001085, "type": "contribution", "round": 6, "player_id": "Player1_Game1738673223001085_haiku35", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738673223001085, "type": "contribution", "round": 6, "player_id": "Player2_Game1738673223001085_mistral", "contribution": 0, "current_tokens": 100}
+{"game_id": 1738673223001085, "type": "contribution", "round": 6, "player_id": "Player3_Game1738673223001085_llama33_70b", "contribution": 0, "current_tokens": 100}
+{"game_id": 1738673223001085, "type": "contribution", "round": 6, "player_id": "Player4_Game1738673223001085_qwen", "contribution": 10, "current_tokens": 40}
+{"game_id": 1738673223001085, "type": "final", "timestamp": "2025-02-04 07:53:12", "final_tokens": {"haiku35": 50, "mistral": 110, "llama33_70b": 110, "qwen": 50}, "carry_over_fund": 0, "settings": {"game_id": 1738673223001085, "total_rounds": 6, "starting_amount": 50, "multiplier": 2, "num_players": 4}}

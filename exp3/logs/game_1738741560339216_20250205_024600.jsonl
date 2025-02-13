@@ -1,0 +1,17 @@
+{"game_id": 1738741560339216, "type": "init", "timestamp": "2025-02-05 02:46:00", "settings": {"game_id": 1738741560339216, "total_rounds": 5, "starting_amount": 100, "multiplier": 2.5, "num_players": 3}, "short_name_map": {"Player1_Game1738741560339216_gpt-4o": {"short_label": "P1", "model_name": "gpt-4o"}, "Player2_Game1738741560339216_r1-fireworks": {"short_label": "P2", "model_name": "r1-fireworks"}, "Player3_Game1738741560339216_qwen-max": {"short_label": "P3", "model_name": "qwen-max"}}}
+{"game_id": 1738741560339216, "type": "contribution", "round": 1, "player_id": "Player1_Game1738741560339216_gpt-4o", "contribution": 100, "current_tokens": 0}
+{"game_id": 1738741560339216, "type": "contribution", "round": 1, "player_id": "Player2_Game1738741560339216_r1-fireworks", "contribution": 0, "current_tokens": 100}
+{"game_id": 1738741560339216, "type": "contribution", "round": 1, "player_id": "Player3_Game1738741560339216_qwen-max", "contribution": 0, "current_tokens": 100}
+{"game_id": 1738741560339216, "type": "contribution", "round": 2, "player_id": "Player1_Game1738741560339216_gpt-4o", "contribution": 0, "current_tokens": 83}
+{"game_id": 1738741560339216, "type": "contribution", "round": 2, "player_id": "Player2_Game1738741560339216_r1-fireworks", "contribution": 0, "current_tokens": 183}
+{"game_id": 1738741560339216, "type": "contribution", "round": 2, "player_id": "Player3_Game1738741560339216_qwen-max", "contribution": 0, "current_tokens": 183}
+{"game_id": 1738741560339216, "type": "contribution", "round": 3, "player_id": "Player1_Game1738741560339216_gpt-4o", "contribution": 0, "current_tokens": 83}
+{"game_id": 1738741560339216, "type": "contribution", "round": 3, "player_id": "Player2_Game1738741560339216_r1-fireworks", "contribution": 2, "current_tokens": 181}
+{"game_id": 1738741560339216, "type": "contribution", "round": 3, "player_id": "Player3_Game1738741560339216_qwen-max", "contribution": 0, "current_tokens": 183}
+{"game_id": 1738741560339216, "type": "contribution", "round": 4, "player_id": "Player1_Game1738741560339216_gpt-4o", "contribution": 0, "current_tokens": 86}
+{"game_id": 1738741560339216, "type": "contribution", "round": 4, "player_id": "Player2_Game1738741560339216_r1-fireworks", "contribution": 0, "current_tokens": 184}
+{"game_id": 1738741560339216, "type": "contribution", "round": 4, "player_id": "Player3_Game1738741560339216_qwen-max", "contribution": 0, "current_tokens": 186}
+{"game_id": 1738741560339216, "type": "contribution", "round": 5, "player_id": "Player1_Game1738741560339216_gpt-4o", "contribution": 86, "current_tokens": 0}
+{"game_id": 1738741560339216, "type": "contribution", "round": 5, "player_id": "Player2_Game1738741560339216_r1-fireworks", "contribution": 0, "current_tokens": 184}
+{"game_id": 1738741560339216, "type": "contribution", "round": 5, "player_id": "Player3_Game1738741560339216_qwen-max", "contribution": 0, "current_tokens": 186}
+{"game_id": 1738741560339216, "type": "final", "timestamp": "2025-02-05 04:05:55", "final_tokens": {"gpt-4o": 73, "r1-fireworks": 257, "qwen-max": 259}, "carry_over_fund": 1, "settings": {"game_id": 1738741560339216, "total_rounds": 5, "starting_amount": 100, "multiplier": 2.5, "num_players": 3}}

@@ -1,0 +1,17 @@
+{"game_id": 1739413968696031, "type": "init", "timestamp": "2025-02-12 21:32:48", "settings": {"game_id": 1739413968696031, "total_rounds": 3, "starting_amount": 1000, "multiplier": 4, "num_players": 5}, "short_name_map": {"Player1_Game1739413968696031_gpt-4o": {"short_label": "P1", "model_name": "gpt-4o"}, "Player2_Game1739413968696031_o1-2024-12-17": {"short_label": "P2", "model_name": "o1-2024-12-17"}, "Player3_Game1739413968696031_mistral": {"short_label": "P3", "model_name": "mistral"}, "Player4_Game1739413968696031_deepseek": {"short_label": "P4", "model_name": "deepseek"}, "Player5_Game1739413968696031_haiku35": {"short_label": "P5", "model_name": "haiku35"}}}
+{"game_id": 1739413968696031, "type": "contribution", "round": 1, "player_id": "Player1_Game1739413968696031_gpt-4o", "contribution": 1000, "current_tokens": 0}
+{"game_id": 1739413968696031, "type": "contribution", "round": 1, "player_id": "Player2_Game1739413968696031_o1-2024-12-17", "contribution": 200, "current_tokens": 800}
+{"game_id": 1739413968696031, "type": "contribution", "round": 1, "player_id": "Player3_Game1739413968696031_mistral", "contribution": 0, "current_tokens": 1000}
+{"game_id": 1739413968696031, "type": "contribution", "round": 1, "player_id": "Player4_Game1739413968696031_deepseek", "contribution": 1000, "current_tokens": 0}
+{"game_id": 1739413968696031, "type": "contribution", "round": 1, "player_id": "Player5_Game1739413968696031_haiku35", "contribution": 250, "current_tokens": 750}
+{"game_id": 1739413968696031, "type": "contribution", "round": 2, "player_id": "Player1_Game1739413968696031_gpt-4o", "contribution": 0, "current_tokens": 1960}
+{"game_id": 1739413968696031, "type": "contribution", "round": 2, "player_id": "Player2_Game1739413968696031_o1-2024-12-17", "contribution": 0, "current_tokens": 2760}
+{"game_id": 1739413968696031, "type": "contribution", "round": 2, "player_id": "Player3_Game1739413968696031_mistral", "contribution": 0, "current_tokens": 2960}
+{"game_id": 1739413968696031, "type": "contribution", "round": 2, "player_id": "Player4_Game1739413968696031_deepseek", "contribution": 1000, "current_tokens": 960}
+{"game_id": 1739413968696031, "type": "contribution", "round": 2, "player_id": "Player5_Game1739413968696031_haiku35", "contribution": 1000, "current_tokens": 1710}
+{"game_id": 1739413968696031, "type": "contribution", "round": 3, "player_id": "Player1_Game1739413968696031_gpt-4o", "contribution": 0, "current_tokens": 3560}
+{"game_id": 1739413968696031, "type": "contribution", "round": 3, "player_id": "Player2_Game1739413968696031_o1-2024-12-17", "contribution": 0, "current_tokens": 4360}
+{"game_id": 1739413968696031, "type": "contribution", "round": 3, "player_id": "Player3_Game1739413968696031_mistral", "contribution": 0, "current_tokens": 4560}
+{"game_id": 1739413968696031, "type": "contribution", "round": 3, "player_id": "Player4_Game1739413968696031_deepseek", "contribution": 1000, "current_tokens": 1560}
+{"game_id": 1739413968696031, "type": "contribution", "round": 3, "player_id": "Player5_Game1739413968696031_haiku35", "contribution": 1000, "current_tokens": 2310}
+{"game_id": 1739413968696031, "type": "final", "timestamp": "2025-02-12 21:34:32", "final_tokens": {"gpt-4o": 5160, "o1-2024-12-17": 5960, "mistral": 6160, "deepseek": 3160, "haiku35": 3910}, "carry_over_fund": 0, "settings": {"game_id": 1739413968696031, "total_rounds": 3, "starting_amount": 1000, "multiplier": 4, "num_players": 5}}

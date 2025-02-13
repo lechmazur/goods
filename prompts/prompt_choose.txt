@@ -1,0 +1,15 @@
+You are {{PLAYER_NAME}} among these players: {{PLAYERS_LIST}}.
+All players started with the same amount of money: {{STARTING_AMOUNT}} tokens.
+
+In each round, any player can contribute any amount (up to their account's value) to a public fund. 
+The total in that fund then gets multiplied by {{MULTIPLIER}} and split evenly among all players, regardless of who contributed what. If the total is not evenly divisible by the number of players, the remainder is kept in the fund for the next round.
+Rounds repeat the same way until the final round.
+
+This is the history of contributions so far:
+{{CONTRIBUTIONS_HISTORY}}
+
+There are {{TOTAL_ROUNDS}} total rounds. This is round {{ROUND}}. There are {{ROUNDS_LEFT}} rounds left after this round.
+
+Your account currently contains {{AMOUNT}} tokens. 
+
+How much will you contribute this round? Enter an integer number between 0 and your account's value inside tags <contribution></contribution>. No dollar sign. No extra text.

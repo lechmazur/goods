@@ -1,0 +1,26 @@
+{"game_id": 1738656410819024, "type": "init", "timestamp": "2025-02-04 03:06:50", "settings": {"game_id": 1738656410819024, "total_rounds": 6, "starting_amount": 50, "multiplier": 2, "num_players": 4}, "short_name_map": {"Player1_Game1738656410819024_gemini_20_flash_exp": {"short_label": "P1", "model_name": "gemini_20_flash_exp"}, "Player2_Game1738656410819024_haiku35": {"short_label": "P2", "model_name": "haiku35"}, "Player3_Game1738656410819024_o1-2024-12-17": {"short_label": "P3", "model_name": "o1-2024-12-17"}, "Player4_Game1738656410819024_r1-fireworks": {"short_label": "P4", "model_name": "r1-fireworks"}}}
+{"game_id": 1738656410819024, "type": "contribution", "round": 1, "player_id": "Player1_Game1738656410819024_gemini_20_flash_exp", "contribution": 50, "current_tokens": 0}
+{"game_id": 1738656410819024, "type": "contribution", "round": 1, "player_id": "Player2_Game1738656410819024_haiku35", "contribution": 25, "current_tokens": 25}
+{"game_id": 1738656410819024, "type": "contribution", "round": 1, "player_id": "Player3_Game1738656410819024_o1-2024-12-17", "contribution": 0, "current_tokens": 50}
+{"game_id": 1738656410819024, "type": "contribution", "round": 1, "player_id": "Player4_Game1738656410819024_r1-fireworks", "contribution": 0, "current_tokens": 50}
+{"game_id": 1738656410819024, "type": "contribution", "round": 2, "player_id": "Player1_Game1738656410819024_gemini_20_flash_exp", "contribution": 18, "current_tokens": 19}
+{"game_id": 1738656410819024, "type": "contribution", "round": 2, "player_id": "Player2_Game1738656410819024_haiku35", "contribution": 40, "current_tokens": 22}
+{"game_id": 1738656410819024, "type": "contribution", "round": 2, "player_id": "Player3_Game1738656410819024_o1-2024-12-17", "contribution": 0, "current_tokens": 87}
+{"game_id": 1738656410819024, "type": "contribution", "round": 2, "player_id": "Player4_Game1738656410819024_r1-fireworks", "contribution": 0, "current_tokens": 87}
+{"game_id": 1738656410819024, "type": "contribution", "round": 3, "player_id": "Player1_Game1738656410819024_gemini_20_flash_exp", "contribution": 49, "current_tokens": 0}
+{"game_id": 1738656410819024, "type": "contribution", "round": 3, "player_id": "Player2_Game1738656410819024_haiku35", "contribution": 45, "current_tokens": 7}
+{"game_id": 1738656410819024, "type": "contribution", "round": 3, "player_id": "Player3_Game1738656410819024_o1-2024-12-17", "contribution": 0, "current_tokens": 117}
+{"game_id": 1738656410819024, "type": "contribution", "round": 3, "player_id": "Player4_Game1738656410819024_r1-fireworks", "contribution": 0, "current_tokens": 117}
+{"game_id": 1738656410819024, "type": "contribution", "round": 4, "player_id": "Player1_Game1738656410819024_gemini_20_flash_exp", "contribution": 47, "current_tokens": 0}
+{"game_id": 1738656410819024, "type": "contribution", "round": 4, "player_id": "Player2_Game1738656410819024_haiku35", "contribution": 47, "current_tokens": 7}
+{"game_id": 1738656410819024, "type": "contribution", "round": 4, "player_id": "Player3_Game1738656410819024_o1-2024-12-17", "contribution": 0, "current_tokens": 164}
+{"game_id": 1738656410819024, "type": "contribution", "round": 4, "player_id": "Player4_Game1738656410819024_r1-fireworks", "contribution": 0, "current_tokens": 164}
+{"game_id": 1738656410819024, "type": "contribution", "round": 5, "player_id": "Player1_Game1738656410819024_gemini_20_flash_exp", "contribution": 47, "current_tokens": 0}
+{"game_id": 1738656410819024, "type": "contribution", "round": 5, "player_id": "Player2_Game1738656410819024_haiku35", "contribution": 47, "current_tokens": 7}
+{"game_id": 1738656410819024, "type": "contribution", "round": 5, "player_id": "Player3_Game1738656410819024_o1-2024-12-17", "contribution": 0, "current_tokens": 211}
+{"game_id": 1738656410819024, "type": "contribution", "round": 5, "player_id": "Player4_Game1738656410819024_r1-fireworks", "contribution": 0, "current_tokens": 211}
+{"game_id": 1738656410819024, "type": "contribution", "round": 6, "player_id": "Player1_Game1738656410819024_gemini_20_flash_exp", "contribution": 47, "current_tokens": 0}
+{"game_id": 1738656410819024, "type": "contribution", "round": 6, "player_id": "Player2_Game1738656410819024_haiku35", "contribution": 47, "current_tokens": 7}
+{"game_id": 1738656410819024, "type": "contribution", "round": 6, "player_id": "Player3_Game1738656410819024_o1-2024-12-17", "contribution": 0, "current_tokens": 258}
+{"game_id": 1738656410819024, "type": "contribution", "round": 6, "player_id": "Player4_Game1738656410819024_r1-fireworks", "contribution": 0, "current_tokens": 258}
+{"game_id": 1738656410819024, "type": "final", "timestamp": "2025-02-04 03:33:58", "final_tokens": {"gemini_20_flash_exp": 47, "haiku35": 54, "o1-2024-12-17": 305, "r1-fireworks": 305}, "carry_over_fund": 0, "settings": {"game_id": 1738656410819024, "total_rounds": 6, "starting_amount": 50, "multiplier": 2, "num_players": 4}}

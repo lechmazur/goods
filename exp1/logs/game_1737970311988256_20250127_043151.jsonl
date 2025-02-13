@@ -1,0 +1,26 @@
+{"game_id": 1737970311988256, "type": "init", "timestamp": "2025-01-27 04:31:51", "settings": {"game_id": 1737970311988256, "total_rounds": 8, "starting_amount": 30, "multiplier": 1.5, "num_players": 4}, "short_name_map": {"Player1_Game1737970311988256_llama": {"short_label": "P1", "model_name": "llama"}, "Player2_Game1737970311988256_haiku35": {"short_label": "P2", "model_name": "haiku35"}, "Player3_Game1737970311988256_llama33_70b": {"short_label": "P3", "model_name": "llama33_70b"}, "Player4_Game1737970311988256_qwen": {"short_label": "P4", "model_name": "qwen"}}}
+{"game_id": 1737970311988256, "type": "contribution", "round": 1, "player_id": "Player1_Game1737970311988256_llama", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 1, "player_id": "Player2_Game1737970311988256_haiku35", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 1, "player_id": "Player3_Game1737970311988256_llama33_70b", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 1, "player_id": "Player4_Game1737970311988256_qwen", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 2, "player_id": "Player1_Game1737970311988256_llama", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 2, "player_id": "Player2_Game1737970311988256_haiku35", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 2, "player_id": "Player3_Game1737970311988256_llama33_70b", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 2, "player_id": "Player4_Game1737970311988256_qwen", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 3, "player_id": "Player1_Game1737970311988256_llama", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 3, "player_id": "Player2_Game1737970311988256_haiku35", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 3, "player_id": "Player3_Game1737970311988256_llama33_70b", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 3, "player_id": "Player4_Game1737970311988256_qwen", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 4, "player_id": "Player1_Game1737970311988256_llama", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 4, "player_id": "Player2_Game1737970311988256_haiku35", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 4, "player_id": "Player3_Game1737970311988256_llama33_70b", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 4, "player_id": "Player4_Game1737970311988256_qwen", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 5, "player_id": "Player1_Game1737970311988256_llama", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 5, "player_id": "Player2_Game1737970311988256_haiku35", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 5, "player_id": "Player3_Game1737970311988256_llama33_70b", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 5, "player_id": "Player4_Game1737970311988256_qwen", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 6, "player_id": "Player1_Game1737970311988256_llama", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 6, "player_id": "Player2_Game1737970311988256_haiku35", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 6, "player_id": "Player3_Game1737970311988256_llama33_70b", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 6, "player_id": "Player4_Game1737970311988256_qwen", "contribution": 0, "current_tokens": 30}
+{"game_id": 1737970311988256, "type": "contribution", "round": 7, "player_id": "Player1_Game1737970311988256_llama", "contribution": 0, "current_tokens": 30}
