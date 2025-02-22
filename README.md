@@ -36,5 +36,12 @@ Sorted by average contribution percentage (descending).
 | 20 | o3-mini | 0.00% | ±0.00 | 47 |
 | 21 | DeepSeek R1 | 0.00% | ±0.00 | 18 |
 
-## Updates and Other Benchmarks
-- Also check out the [Multi-Agent Elimination Game LLM Benchmark](https://github.com/lechmazur/elimination_game/), [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/), [LLM Step Game](https://github.com/lechmazur/step_game), [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization), [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing), [LLM Deception Benchmark](https://github.com/lechmazur/deception) and [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).
+## Other Benchmarks
+Also check out:
+- [Multi-Agent Elimination Game LLM Benchmark](https://github.com/lechmazur/elimination_game/)
+- [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/)
+- [LLM Step Game Benchmark](https://github.com/lechmazur/step_game)
+- [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization)
+- [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing)
+- [LLM Deception Benchmark](https://github.com/lechmazur/deception)
+- [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).
